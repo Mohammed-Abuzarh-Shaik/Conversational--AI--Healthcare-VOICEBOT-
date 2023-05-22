@@ -17,7 +17,7 @@ Step 3: Text to speech conversion
 
 ------ pip install gtts and also install the media player for playing the audio after conversion,
 
- set any media player path to the project Now to see your voice bot in action run the Voice_bot.py file and also run the action server using
+ set any media player path to the project Now to see your voice bot in action run the Voice.py file and also run the action server using
 
 ------ rasa run actions          
 
